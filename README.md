@@ -5,7 +5,7 @@ The board is indexed from 1-9 as the board is 3x3 and 1-3 represent the first ro
 last row. If the user gives a wrong input, the program will keep requesting a new position until it is correct. If the position given 
 is taken already, it keeps asking for a new position until there is an empty slot given.
 Initally, all the positions on the board are unoccupied, filled with '-'.
-When there is a winner or there is a tie, the program will asked if the users want to play again. If yes, it will start over, if no, it stops.
+When there is a winner or there is a tie, the program will ask if the users want to play again. If yes, it will start over, if no, it stops.
 
 
 **This project was created to work more with creating functions, lists, and user input.**  
