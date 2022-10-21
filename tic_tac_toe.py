@@ -160,6 +160,9 @@ def flip_player():
   else:
     current_player = 'X'
 
+def game_over():
+  check_for_winner()
+  check_if_tie()
 
 #handle a single turn of a player
 def handle_turn(player):
